@@ -1,3 +1,8 @@
+%Punahamoa Walker ? Yi Wu
+%Date: 01/29/2019
+%Assignment 1
+
+
 %This function performs time domain convolution
 function y=myTimeConv(x,h)
 
